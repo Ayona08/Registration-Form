@@ -1,0 +1,26 @@
+
+.head{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(133, 73, 4);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form{
+    text-align: center;
+    border: 2px solid;
+    background-color: rgb(206, 233, 157);
+    border-radius: 50px;
+    position: relative;
+    left: 30%;
+    width: 500px;
+    margin: 10px;
+}
+.g:hover{
+    background-color: rgb(145, 194, 197);
+}
+.g{
+    margin: 10px;
+}
+button:hover{
+    background-color: rgb(194, 133, 42);
+}
